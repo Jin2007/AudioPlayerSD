@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AudioPlayerSD</string>
+    <string name="sd">SD</string>
+</resources>
